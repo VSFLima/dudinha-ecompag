@@ -1,0 +1,6002 @@
+[
+  {
+    "nome": "Samuel",
+    "inicial": "S",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Cássio",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Adelmo",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Rubem",
+    "inicial": "R",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Nathan",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Alexsandro",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Estevão",
+    "inicial": "E",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Alfredo",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Jonathan",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "César",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Élton",
+    "inicial": "É",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Adilson",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "H",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ramiro",
+    "inicial": "D",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Felipe",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Heraldo",
+    "inicial": "O",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Arlindo",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Túlio",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Théo",
+    "inicial": "D",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ronaldo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Altair",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Plínio",
+    "inicial": "P",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Bento",
+    "inicial": "B",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Prisco",
+    "inicial": "P",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "X",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "P",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Luan",
+    "inicial": "L",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Cleber",
+    "inicial": "C",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Afonso",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "L",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Denilton",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Osvaldo",
+    "inicial": "X",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "B",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gabriel",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Marcos",
+    "inicial": "P",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "H",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Celso",
+    "inicial": "K",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Everton",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Enzo",
+    "inicial": "E",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Vagner",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Braz",
+    "inicial": "B",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Julio",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Nerinho",
+    "inicial": "N",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "L",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Nerinho",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Quirino",
+    "inicial": "Q",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "E",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Kauê",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Odair",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ariolino",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Denilson",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "W",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "W",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Maurício",
+    "inicial": "M",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Matheus",
+    "inicial": "T",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Alex",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "J",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Durval",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Filipe",
+    "inicial": "F",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Kleber",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Jandir",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Kadu",
+    "inicial": "H",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Henrique",
+    "inicial": "H",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "Z",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Xisto",
+    "inicial": "X",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jairo",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Hélio",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "R",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Basílio",
+    "inicial": "K",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Getúlio",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Adão",
+    "inicial": "Q",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Heitor",
+    "inicial": "O",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "N",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Eder",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Abner",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "W",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Alton",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ernandes",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Lino",
+    "inicial": "L",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Renato",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Wesley",
+    "inicial": "W",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Zé",
+    "inicial": "Z",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "S",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Murilo",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Valter",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "B",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "Y",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "K",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ilson",
+    "inicial": "I",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Nerinho",
+    "inicial": "U",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Túlio",
+    "inicial": "O",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Cláudio",
+    "inicial": "C",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Josué",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "I",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Amauri",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "D",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Vinicius",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Allan",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Fernando",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Matheus",
+    "inicial": "U",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "W",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "S",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Plínio",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Salomão",
+    "inicial": "U",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Marcelo",
+    "inicial": "M",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Gilmar",
+    "inicial": "P",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Fausto",
+    "inicial": "T",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Sidinei",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Eduardo",
+    "inicial": "E",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ezequiel",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Humberto",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "J",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "U",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Cleomar",
+    "inicial": "C",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Glauber",
+    "inicial": "G",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "T",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "K",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Fernando",
+    "inicial": "I",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Deoclides",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Wallace",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Maicon",
+    "inicial": "M",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Iomar",
+    "inicial": "I",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Celso",
+    "inicial": "W",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jailton",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Idalécio",
+    "inicial": "I",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jadiel",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "X",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "I",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Kelvin",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Harley",
+    "inicial": "X",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "R",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "N",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Kaue",
+    "inicial": "X",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Felipe",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ednaldo",
+    "inicial": "X",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Augusto",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ugor",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "T",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Hugo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Amaro",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Nerinho",
+    "inicial": "L",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Lorenzo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Manoel",
+    "inicial": "M",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Nilton",
+    "inicial": "N",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Sandoval",
+    "inicial": "S",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Beto",
+    "inicial": "X",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "C",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Edmundo",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Fellipe",
+    "inicial": "F",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Graslei",
+    "inicial": "G",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Yan",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "L",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Enoque",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Benedito",
+    "inicial": "T",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Gerson",
+    "inicial": "N",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Aquiles",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "P",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "U",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Yan",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Firmino",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "Z",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Heraldo",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "C",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Demétrio",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "T",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Valdir",
+    "inicial": "S",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "W",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gilmar",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Victor",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Lázaro",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Vinicius",
+    "inicial": "T",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Adriano",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Aristides",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "K",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Tomaz",
+    "inicial": "T",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "L",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "B",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Caetano",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Joaquim",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Zeca",
+    "inicial": "Z",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Vivaldo",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Yuri",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Gabriel",
+    "inicial": "B",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Odinélio",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ronaldo",
+    "inicial": "R",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Jorge",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Zaqueu",
+    "inicial": "D",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Valter",
+    "inicial": "T",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ramiro",
+    "inicial": "F",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Laércio",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Elinton",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "B",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "W",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Anderson",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "W",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ernesto",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Mariana",
+    "inicial": "V",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Zeca",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Alécio",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Heitor",
+    "inicial": "X",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "Z",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "K",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Fabrício",
+    "inicial": "F",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "P",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Joel",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Germano",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Aurélio",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Flávio",
+    "inicial": "F",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Clécio",
+    "inicial": "C",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Cléverson",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Luís",
+    "inicial": "L",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Giovanio",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Tiago",
+    "inicial": "Z",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Jhonatan",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "R",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Fausto",
+    "inicial": "M",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Valmor",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Antônio",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "U",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "T",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Julio",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Rubens",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Enzo",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Rubens",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Moisés",
+    "inicial": "M",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Eraldo",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "César",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Lucas",
+    "inicial": "Y",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Donizete",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "N",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "Z",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Noel",
+    "inicial": "N",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Eduardo",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Amadeu",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "João",
+    "inicial": "Q",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Davi",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Gilson",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "O",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "Y",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "Z",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Érico",
+    "inicial": "É",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ambrósio",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Zeca",
+    "inicial": "L",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Yan",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Guilherme",
+    "inicial": "G",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Artur",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Marciano",
+    "inicial": "M",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Adilson",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "X",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "W",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Joab",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Vagner",
+    "inicial": "W",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Basílio",
+    "inicial": "G",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ozéias",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Alexandre",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Élcio",
+    "inicial": "É",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Tadeu",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "Y",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "Y",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Kevin",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Frederico",
+    "inicial": "F",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Osvaldo",
+    "inicial": "Q",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Beto",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Gilberto",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Bernardo",
+    "inicial": "L",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Anselmo",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Guimarães",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Marcos",
+    "inicial": "V",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "H",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Tiago",
+    "inicial": "T",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Abel",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "W",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Francisley",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Victor",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "T",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Kelvin",
+    "inicial": "J",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Carlos",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Rogério",
+    "inicial": "R",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Francisco",
+    "inicial": "F",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Valdir",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "Y",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Cassiano",
+    "inicial": "C",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Adalberto",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ivan",
+    "inicial": "Q",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Emílio",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "I",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Otávio",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Tiago",
+    "inicial": "Q",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Jarbas",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Dirceu",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Sidnei",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ítalo",
+    "inicial": "Í",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Sidnei",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Vitor",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Breno",
+    "inicial": "S",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Roque",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Xerxes",
+    "inicial": "X",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "S",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Deivid",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Natan",
+    "inicial": "N",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "I",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "T",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Henrique",
+    "inicial": "D",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Yuri",
+    "inicial": "Y",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Péricles",
+    "inicial": "P",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Kadu",
+    "inicial": "F",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "S",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Douglas",
+    "inicial": "D",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Diogo",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Andreson",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Mário",
+    "inicial": "U",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Alcides",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "G",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Aldair",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ivan",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Pablo",
+    "inicial": "P",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "André",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Mateus",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "R",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "S",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Aparecido",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Baltazar",
+    "inicial": "B",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Celso",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Anderson",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Djalma",
+    "inicial": "D",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "W",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Harley",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Edmar",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Elvis",
+    "inicial": "E",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "Y",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Carlos",
+    "inicial": "P",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "S",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ageu",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ariel",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Romário",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Vagner",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "I",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Cássio",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Adelmo",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "C",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Lucas",
+    "inicial": "N",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Patric",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "P",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Rubem",
+    "inicial": "R",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Alexsandro",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ednaldo",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Quirino",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Umberto",
+    "inicial": "Z",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "X",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Estevão",
+    "inicial": "E",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "O",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "Q",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "U",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Firmino",
+    "inicial": "B",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ugor",
+    "inicial": "F",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Lorenzo",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Alfredo",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Murilo",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Otávio",
+    "inicial": "H",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Jonathan",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Élton",
+    "inicial": "É",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Adilson",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Jonatan",
+    "inicial": "Q",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "D",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "K",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ugor",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Tadeu",
+    "inicial": "S",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "S",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Miguel",
+    "inicial": "Y",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Danilo",
+    "inicial": "B",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "Q",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Arlindo",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Yton",
+    "inicial": "O",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "Y",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ronaldo",
+    "inicial": "R",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Adilson",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Murilo",
+    "inicial": "D",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Zeca",
+    "inicial": "L",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Altair",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Plínio",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Bento",
+    "inicial": "B",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Denis",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Zico",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Luan",
+    "inicial": "L",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Cleber",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Afonso",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Salomão",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Denilton",
+    "inicial": "D",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "H",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Everton",
+    "inicial": "E",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Enzo",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Zico",
+    "inicial": "X",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Braz",
+    "inicial": "B",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Jonatan",
+    "inicial": "W",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Nilton",
+    "inicial": "H",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Julio",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "B",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Daniel",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Luan",
+    "inicial": "M",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Quirino",
+    "inicial": "Q",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "M",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "E",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Kauê",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "E",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Zico",
+    "inicial": "H",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Odair",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Mário",
+    "inicial": "Z",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "E",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ariolino",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "C",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Denilson",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "W",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Décio",
+    "inicial": "I",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Sidnei",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Maurício",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Nathan",
+    "inicial": "G",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ozéias",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Fernando",
+    "inicial": "H",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Alex",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Patric",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Kadu",
+    "inicial": "Z",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Italo",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "U",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "Q",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ozéias",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Guilherme",
+    "inicial": "K",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "W",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Durval",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Lázaro",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "M",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Dirceu",
+    "inicial": "B",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "B",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Filipe",
+    "inicial": "F",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Kleber",
+    "inicial": "K",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Breno",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Julio",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Wesley",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Jandir",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Henrique",
+    "inicial": "H",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Xisto",
+    "inicial": "X",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jairo",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "M",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Hélio",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Getúlio",
+    "inicial": "G",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Eder",
+    "inicial": "E",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "X",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "Q",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Gabriel",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Fausto",
+    "inicial": "Q",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Abner",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Geraldo",
+    "inicial": "U",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Omar",
+    "inicial": "K",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "W",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Alton",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ernandes",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Lino",
+    "inicial": "L",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Renato",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Basílio",
+    "inicial": "S",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Heitor",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Heraldo",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Wesley",
+    "inicial": "W",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Bernardo",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Zé",
+    "inicial": "Z",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Murilo",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "V",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "B",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Basílio",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ilson",
+    "inicial": "I",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Cláudio",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Josué",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "I",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Zaqueu",
+    "inicial": "G",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Amauri",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Eduardo",
+    "inicial": "K",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Allan",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "S",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "H",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "T",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Marcelo",
+    "inicial": "M",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Denis",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Péricles",
+    "inicial": "N",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Sidinei",
+    "inicial": "S",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "E",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Eduardo",
+    "inicial": "E",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ezequiel",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Humberto",
+    "inicial": "H",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Abel",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "D",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Carlos",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Cleomar",
+    "inicial": "C",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Glauber",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "W",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Thais",
+    "inicial": "H",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Bogdan",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Salomão",
+    "inicial": "T",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Deoclides",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Maicon",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "P",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "N",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Xisto",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ciro",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Iomar",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Jailton",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Idalécio",
+    "inicial": "I",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Jadiel",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "N",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Yuri",
+    "inicial": "N",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Daniel",
+    "inicial": "B",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Augusto",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Matheus",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Adão",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Gabriel",
+    "inicial": "B",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Amaro",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Breno",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Manoel",
+    "inicial": "M",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Nilton",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Sandoval",
+    "inicial": "S",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Edmundo",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Fellipe",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Graslei",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "F",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Enoque",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Aquiles",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "L",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Gilmar",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "U",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "Z",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Demétrio",
+    "inicial": "D",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Adão",
+    "inicial": "E",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "R",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Adriano",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Xande",
+    "inicial": "K",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Patric",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Aristides",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Salomão",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Vinicius",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "X",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Tomaz",
+    "inicial": "T",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jadson",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Victor",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Caetano",
+    "inicial": "C",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Omar",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Lucas",
+    "inicial": "U",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Joaquim",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Yuri",
+    "inicial": "I",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Zeca",
+    "inicial": "Z",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "P",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "C",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "X",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Vivaldo",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Odinélio",
+    "inicial": "O",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Italo",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "L",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Dirceu",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ronaldo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Jorge",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ugor",
+    "inicial": "Y",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "G",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "Z",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "João",
+    "inicial": "T",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Túlio",
+    "inicial": "J",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Vinicius",
+    "inicial": "T",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Laércio",
+    "inicial": "L",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "S",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "K",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "L",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Elinton",
+    "inicial": "E",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Anderson",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "F",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Kelvin",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Valter",
+    "inicial": "G",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Gilmar",
+    "inicial": "W",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ernesto",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Alécio",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Fabrício",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Joel",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Germano",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Aurélio",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Flávio",
+    "inicial": "F",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "P",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Clécio",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Cléverson",
+    "inicial": "C",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "W",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Luís",
+    "inicial": "L",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Osvaldo",
+    "inicial": "K",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Giovanio",
+    "inicial": "G",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Sidnei",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ramiro",
+    "inicial": "N",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Jhonatan",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Osvaldo",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Plínio",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Dirceu",
+    "inicial": "L",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "F",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Valmor",
+    "inicial": "V",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Jadson",
+    "inicial": "Y",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Heitor",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Hélio",
+    "inicial": "Y",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Antônio",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Jorge",
+    "inicial": "H",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Mariana",
+    "inicial": "Y",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "T",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Zé",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Moisés",
+    "inicial": "M",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Eraldo",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Donizete",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Noel",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Nerinho",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Yton",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Heitor",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Amadeu",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "H",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Davi",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Gilson",
+    "inicial": "G",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Omar",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Érico",
+    "inicial": "É",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Gilmar",
+    "inicial": "H",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ambrósio",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Guilherme",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Nerinho",
+    "inicial": "Q",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Daniel",
+    "inicial": "W",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Artur",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Neto",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Marciano",
+    "inicial": "M",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Joab",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Alexandre",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ozéias",
+    "inicial": "H",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Matheus",
+    "inicial": "H",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Élcio",
+    "inicial": "É",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Frederico",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gilberto",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Fernando",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ciro",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Valter",
+    "inicial": "N",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Anselmo",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Toninho",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Patric",
+    "inicial": "M",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Guimarães",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Tiago",
+    "inicial": "T",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ivan",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Otávio",
+    "inicial": "U",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "W",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Gabriel",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Toninho",
+    "inicial": "U",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Francisley",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "V",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Omar",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Thiago",
+    "inicial": "T",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Hélio",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "S",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Carlos",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Rogério",
+    "inicial": "R",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Francisco",
+    "inicial": "F",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Valdir",
+    "inicial": "V",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "D",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Cassiano",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Adalberto",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Emílio",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Otávio",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Umberto",
+    "inicial": "X",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Jarbas",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Dirceu",
+    "inicial": "D",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Zózimo",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Henrique",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Thais",
+    "inicial": "S",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Jorge",
+    "inicial": "I",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ítalo",
+    "inicial": "Í",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "C",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Vitor",
+    "inicial": "V",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Bernardo",
+    "inicial": "B",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Maicon",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "L",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Roque",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "U",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Deivid",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Natan",
+    "inicial": "N",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Zózimo",
+    "inicial": "D",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Yuri",
+    "inicial": "Y",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Péricles",
+    "inicial": "P",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Eduardo",
+    "inicial": "X",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "L",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Douglas",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Diogo",
+    "inicial": "D",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Geraldo",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Andreson",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Alcides",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Hugo",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Aldair",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "T",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Xerxes",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Wallace",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ivan",
+    "inicial": "I",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "T",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Patric",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Pablo",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "André",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Lázaro",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "E",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gerson",
+    "inicial": "W",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Mateus",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Abel",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Italo",
+    "inicial": "U",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "Q",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Hugo",
+    "inicial": "P",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Fausto",
+    "inicial": "Z",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Xerxes",
+    "inicial": "P",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "U",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "L",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Heraldo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Nilton",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Aparecido",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Tadeu",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Quirino",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Zaqueu",
+    "inicial": "W",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Matheus",
+    "inicial": "I",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ugor",
+    "inicial": "D",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Baltazar",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "U",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "Y",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Jonatan",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Xerxes",
+    "inicial": "J",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "L",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Henrique",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Zaqueu",
+    "inicial": "X",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Djalma",
+    "inicial": "D",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Edmar",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Elvis",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "Y",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ageu",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "B",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ariel",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Romário",
+    "inicial": "R",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Kadu",
+    "inicial": "C",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Cássio",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Adelmo",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "P",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Rubem",
+    "inicial": "R",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Alexsandro",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "O",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Thais",
+    "inicial": "V",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Estevão",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "Z",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Alfredo",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Jonathan",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Élton",
+    "inicial": "É",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Vagner",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Adilson",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "V",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Théo",
+    "inicial": "L",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Lázaro",
+    "inicial": "K",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Harley",
+    "inicial": "I",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Beto",
+    "inicial": "P",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Arlindo",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Vagner",
+    "inicial": "S",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ronaldo",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Altair",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "C",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Plínio",
+    "inicial": "P",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "Z",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Bento",
+    "inicial": "B",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Umberto",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Irlan",
+    "inicial": "B",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Omar",
+    "inicial": "U",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Vagner",
+    "inicial": "K",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Luan",
+    "inicial": "L",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Enzo",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Cleber",
+    "inicial": "C",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ciro",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Afonso",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Denilton",
+    "inicial": "D",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "H",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Wallace",
+    "inicial": "T",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Everton",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "E",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Nicolas",
+    "inicial": "Q",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Xisto",
+    "inicial": "F",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "F",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Vanderlei",
+    "inicial": "S",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Francisco",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Enzo",
+    "inicial": "E",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Samuel",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Kelvin",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "João",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Braz",
+    "inicial": "B",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Kelvin",
+    "inicial": "P",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Beto",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "X",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Julio",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Zaqueu",
+    "inicial": "K",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "L",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Jeferson",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Jadson",
+    "inicial": "N",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Quirino",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "João",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "Z",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Kauê",
+    "inicial": "K",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Odair",
+    "inicial": "O",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Lázaro",
+    "inicial": "K",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ariolino",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Yton",
+    "inicial": "Y",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "L",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Denilson",
+    "inicial": "D",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "W",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Salomão",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Maurício",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ednaldo",
+    "inicial": "U",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Alex",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Durval",
+    "inicial": "D",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Filipe",
+    "inicial": "F",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Odir",
+    "inicial": "K",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Kleber",
+    "inicial": "K",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "H",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "B",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Benedito",
+    "inicial": "L",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Xisto",
+    "inicial": "G",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Miguel",
+    "inicial": "X",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Neto",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Firmino",
+    "inicial": "K",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Jandir",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Adão",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Henrique",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Zózimo",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Xisto",
+    "inicial": "X",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Zé",
+    "inicial": "D",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Jairo",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Márcio",
+    "inicial": "M",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Neto",
+    "inicial": "S",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Hélio",
+    "inicial": "H",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Getúlio",
+    "inicial": "G",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Mariana",
+    "inicial": "Y",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Eder",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Abner",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "W",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Alton",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ernandes",
+    "inicial": "E",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Denis",
+    "inicial": "U",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Alex",
+    "inicial": "Z",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Lino",
+    "inicial": "L",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Renato",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Otávio",
+    "inicial": "X",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Gerson",
+    "inicial": "O",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Edson",
+    "inicial": "Z",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "Y",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Abel",
+    "inicial": "W",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "R",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Wesley",
+    "inicial": "W",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Zé",
+    "inicial": "Z",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Murilo",
+    "inicial": "M",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "U",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "B",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Ilson",
+    "inicial": "I",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "E",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Cláudio",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Josué",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "Z",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Yton",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Túlio",
+    "inicial": "G",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "Y",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "P",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Victor",
+    "inicial": "L",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Rubens",
+    "inicial": "B",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Amauri",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "H",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "R",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Allan",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Osvaldo",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Willian",
+    "inicial": "S",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Valdir",
+    "inicial": "G",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Saulo",
+    "inicial": "S",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Marcelo",
+    "inicial": "M",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Sidinei",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Eduardo",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ezequiel",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Gilmar",
+    "inicial": "U",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Vinicius",
+    "inicial": "X",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Italo",
+    "inicial": "N",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Humberto",
+    "inicial": "H",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Cleomar",
+    "inicial": "C",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Xavier",
+    "inicial": "Y",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Nilton",
+    "inicial": "T",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Glauber",
+    "inicial": "G",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Péricles",
+    "inicial": "N",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Bruno",
+    "inicial": "P",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "Z",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Uéslei",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "César",
+    "inicial": "Y",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Valdir",
+    "inicial": "P",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Basílio",
+    "inicial": "X",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Deoclides",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Maicon",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Renato",
+    "inicial": "I",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Iomar",
+    "inicial": "I",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Jailton",
+    "inicial": "J",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Idalécio",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Paulo",
+    "inicial": "Q",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Jadiel",
+    "inicial": "J",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Nilson",
+    "inicial": "N",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Augusto",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Amaro",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Manoel",
+    "inicial": "M",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Nilton",
+    "inicial": "N",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Sandoval",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Jadson",
+    "inicial": "H",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "X",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Leonardo",
+    "inicial": "I",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Edmundo",
+    "inicial": "E",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Celso",
+    "inicial": "N",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "H",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Fellipe",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Ciro",
+    "inicial": "P",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "Y",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Elias",
+    "inicial": "T",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Graslei",
+    "inicial": "G",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Enoque",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Hilário",
+    "inicial": "N",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ednaldo",
+    "inicial": "B",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Aquiles",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "U",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Tadeu",
+    "inicial": "U",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Felipe",
+    "inicial": "N",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Denis",
+    "inicial": "W",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Miguel",
+    "inicial": "K",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Isaque",
+    "inicial": "I",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Wesley",
+    "inicial": "Y",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Francisco",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Demétrio",
+    "inicial": "D",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "R",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "R",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Adriano",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Aristides",
+    "inicial": "A",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Tomaz",
+    "inicial": "T",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Yton",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Gustavo",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Zico",
+    "inicial": "M",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Quirino",
+    "inicial": "S",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Alex",
+    "inicial": "O",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Uriel",
+    "inicial": "A",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Vinicius",
+    "inicial": "Q",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Caetano",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Uriel",
+    "inicial": "K",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Joaquim",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Zeca",
+    "inicial": "Z",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Tiago",
+    "inicial": "T",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "W",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Felipe",
+    "inicial": "M",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Vivaldo",
+    "inicial": "V",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Lucas",
+    "inicial": "J",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Harley",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Odinélio",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Hugo",
+    "inicial": "F",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ronaldo",
+    "inicial": "R",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Ricardo",
+    "inicial": "W",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Lorenzo",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Jorge",
+    "inicial": "J",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Yago",
+    "inicial": "O",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "C",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Zé",
+    "inicial": "U",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "L",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Laércio",
+    "inicial": "L",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Sandro",
+    "inicial": "S",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "G",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ulisses",
+    "inicial": "L",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "B",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Elinton",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Anderson",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "G",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Fábio",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Ernesto",
+    "inicial": "E",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Dirceu",
+    "inicial": "V",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ubiratan",
+    "inicial": "V",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Igor",
+    "inicial": "H",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Alécio",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Zico",
+    "inicial": "W",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Xerxes",
+    "inicial": "F",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Gláuber",
+    "inicial": "G",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Fabrício",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Raimundo",
+    "inicial": "R",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Joel",
+    "inicial": "J",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Germano",
+    "inicial": "G",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Kelvin",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Prisco",
+    "inicial": "B",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Kauã",
+    "inicial": "S",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Aurélio",
+    "inicial": "A",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "C",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Carlos",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Francisco",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Flávio",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Pedro",
+    "inicial": "P",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Clécio",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Cléverson",
+    "inicial": "C",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Rodrigo",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Valter",
+    "inicial": "W",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Luís",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Giovanio",
+    "inicial": "G",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "G",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Théo",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Jhonatan",
+    "inicial": "J",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Leandro",
+    "inicial": "N",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Abel",
+    "inicial": "P",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Bogdan",
+    "inicial": "M",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Emerson",
+    "inicial": "Y",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Harley",
+    "inicial": "E",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Lorenzo",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Umberto",
+    "inicial": "R",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Rafael",
+    "inicial": "R",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Kleber",
+    "inicial": "H",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Arthur",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Valmor",
+    "inicial": "V",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Antônio",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "T",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Zózimo",
+    "inicial": "D",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Moisés",
+    "inicial": "M",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Diego",
+    "inicial": "E",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Eraldo",
+    "inicial": "E",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Wallace",
+    "inicial": "I",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Zózimo",
+    "inicial": "G",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Donizete",
+    "inicial": "D",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Noel",
+    "inicial": "N",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Amadeu",
+    "inicial": "A",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Neto",
+    "inicial": "W",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Décio",
+    "inicial": "N",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Sérgio",
+    "inicial": "F",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Davi",
+    "inicial": "D",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Gilson",
+    "inicial": "G",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Ugor",
+    "inicial": "A",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Érico",
+    "inicial": "É",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Ambrósio",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Guilherme",
+    "inicial": "G",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Artur",
+    "inicial": "A",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Marciano",
+    "inicial": "M",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "O",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Marcio",
+    "inicial": "O",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Salomão",
+    "inicial": "N",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Joab",
+    "inicial": "J",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Alexandre",
+    "inicial": "A",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Walmir",
+    "inicial": "R",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "K",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Ivanildo",
+    "inicial": "Q",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Tarcísio",
+    "inicial": "R",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Élcio",
+    "inicial": "É",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Frederico",
+    "inicial": "F",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Victor",
+    "inicial": "H",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Gilberto",
+    "inicial": "G",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Anselmo",
+    "inicial": "A",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Guimarães",
+    "inicial": "G",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Xico",
+    "inicial": "G",
+    "plano": "plano Anual"
+  },
+  {
+    "nome": "Clóvis",
+    "inicial": "S",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Jonatan",
+    "inicial": "F",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Tiago",
+    "inicial": "T",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Adilson",
+    "inicial": "I",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Renato",
+    "inicial": "X",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Lauro",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Silvio",
+    "inicial": "Q",
+    "plano": "plano Trimestral"
+  },
+  {
+    "nome": "Wagner",
+    "inicial": "W",
+    "plano": "acesso VIP"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "X",
+    "plano": "plano Mensal"
+  },
+  {
+    "nome": "Cauê",
+    "inicial": "V",
+    "plano": "plano Semanal"
+  },
+  {
+    "nome": "Umberto",
+    "inicial": "L",
+    "plano": "plano Vitalício"
+  },
+  {
+    "nome": "Luciano",
+    "inicial": "Y",
+    "plano": "plano Exclusivo"
+  },
+  {
+    "nome": "Osmar",
+    "inicial": "F",
+    "plano": "assinatura Premium"
+  },
+  {
+    "nome": "Francisley",
+    "inicial": "F",
+    "plano": "acesso VIP"
+  }
+]

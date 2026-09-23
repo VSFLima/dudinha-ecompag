@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oferta Especial - Privacy Eduarda</title>
+  <link rel="icon" type="image/png" href="../images/219-images-favicon.png">
+  
+  <script src="../pixel.js"></script>
+  <script>
+    (function(){
+      function fmt(v){ return 'R$ ' + Number(v).toFixed(2).replace('.', ','); }
+      function initDesconto() {
+        var d = _P.desconto;
+        var el = document.getElementById('preco-desconto');
+        var elAntes = document.getElementById('preco-desconto-antes');
+        var elLabel = document.getElementById('preco-desconto-label');
+        if (el) el.textContent = fmt(d.preco);
+        if (elAntes) elAntes.textContent = 'De ' + fmt(d.precoAntes);
+        if (elLabel) elLabel.textContent = d.label;
+      }
+      var s = document.createElement('script');
+      s.src = '../planos.php?v=' + Date.now();
+      s.onload = initDesconto;
+      document.head.appendChild(s);
+    })();
+  </script>
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+      background: linear-gradient(135deg, #fff5f0 0%, #ffffff 100%);
+      color: #333333;
+      padding-bottom: 120px;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .logo {
+      width: 180px;
+      margin-bottom: 20px;
+      animation: fadeIn 0.5s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .video-container {
+      position: relative;
+      width: 100%;
+      border-radius: 15px;
+      margin-bottom: 25px;
+      overflow: hidden;
+      box-shadow: 0 8px 30px rgba(241, 90, 36, 0.15);
+      user-select: none;
+      -webkit-user-select: none;
+      min-height: 580px;
+      background: linear-gradient(135deg, #f15a24, #ff7643);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .video-container.video-hidden .banner {
+      opacity: 0;
+      visibility: hidden;
+    }
+
+    .video-container.video-hidden .video-overlay {
+      opacity: 0;
+      visibility: hidden;
+    }
+
+    .video-container:not(.video-hidden) .banner,
+    .video-container:not(.video-hidden) .video-overlay {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .preview-button {
+      background: white;
+      border: none;
+      padding: 20px 30px;
+      border-radius: 15px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      transition: all 0.3s;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+      z-index: 10;
+      position: relative;
+    }
+
+    .video-container.video-hidden .preview-button {
+      display: flex;
+    }
+
+    .video-container:not(.video-hidden) .preview-button {
+      display: none;
+    }
+
+    .preview-button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .preview-button:active {
+      transform: translateY(0);
+    }
+
+    .preview-icon-circle {
+      width: 70px;
+      height: 70px;
+      background: linear-gradient(135deg, #f15a24, #ff7643);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .preview-button-text {
+      font-size: 16px;
+      font-weight: 700;
+      color: #f15a24;
+    }
+
+    .preview-button-subtext {
+      font-size: 13px;
+      color: #666;
+      font-weight: 500;
+    }
+
+    .banner {
+      width: 100%;
+      display: block;
+      filter: blur(8px) brightness(0.6);
+    }
+
+    .video-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      pointer-events: none;
+      z-index: 2;
+      transition: opacity 0.5s ease, visibility 0.5s ease;
+    }
+
+    .banner {
+      pointer-events: none;
+      width: 100%;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      object-fit: cover;
+      transition: opacity 0.5s ease, visibility 0.5s ease;
+    }
+
+    .lock-icon {
+      width: 60px;
+      height: 60px;
+      background: rgba(241, 90, 36, 0.95);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
+      pointer-events: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    .overlay-text {
+      color: white;
+      font-size: 14px;
+      font-weight: 600;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.8);
+      pointer-events: none;
+    }
+
+    .urgency-badge {
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      color: white;
+      padding: 10px 20px;
+      border-radius: 25px;
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 20px;
+      display: inline-block;
+      animation: pulse 2s infinite;
+      box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4);
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+    }
+
+    .message {
+      font-size: 1.05rem;
+      line-height: 1.7;
+      margin-bottom: 25px;
+      color: #444;
+    }
+
+    .message strong {
+      color: #f15a24;
+      font-weight: 700;
+    }
+
+    .highlight {
+      color: #f15a24;
+      font-weight: 700;
+    }
+
+    .benefits-box {
+      background: white;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 25px 0;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      text-align: left;
+    }
+
+    .benefits-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: #f15a24;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    .benefit-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .benefit-icon {
+      width: 24px;
+      height: 24px;
+      background: #fef3f0;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .price-box {
+      background: linear-gradient(135deg, #f15a24, #ff7643);
+      color: white;
+      padding: 20px;
+      border-radius: 15px;
+      margin: 20px 0;
+      box-shadow: 0 8px 25px rgba(241, 90, 36, 0.3);
+    }
+
+    .price-label {
+      font-size: 14px;
+      opacity: 0.9;
+      margin-bottom: 5px;
+    }
+
+    .price-value {
+      font-size: 42px;
+      font-weight: 700;
+      margin-bottom: 5px;
+    }
+
+    .price-old {
+      font-size: 18px;
+      text-decoration: line-through;
+      opacity: 0.7;
+    }
+
+    .cta-button {
+      background: linear-gradient(135deg, #f15a24, #ff7643);
+      color: white;
+      border: none;
+      padding: 18px 40px;
+      font-size: 1.1rem;
+      border-radius: 12px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      box-shadow: 0 8px 25px rgba(241, 90, 36, 0.4);
+      animation: pulseButton 2s infinite;
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      font-weight: 700;
+      width: calc(100% - 40px);
+      max-width: 460px;
+      transition: all 0.3s;
+    }
+
+    .cta-button:active {
+      transform: translateX(-50%) scale(0.95);
+    }
+
+    @keyframes pulseButton {
+      0%, 100% {
+        transform: translateX(-50%) scale(1);
+        box-shadow: 0 8px 25px rgba(241, 90, 36, 0.4);
+      }
+      50% {
+        transform: translateX(-50%) scale(1.03);
+        box-shadow: 0 10px 30px rgba(241, 90, 36, 0.6);
+      }
+    }
+
+    .guarantee {
+      margin-top: 20px;
+      font-size: 13px;
+      color: #666;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .guarantee-icon {
+      width: 20px;
+      height: 20px;
+    }
+
+    /* Modal de Email */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.85);
+      z-index: 2000;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(4px);
+    }
+
+    .modal.active {
+      display: flex;
+      animation: fadeIn 0.3s ease;
+    }
+
+    .modal-content {
+      background: white;
+      padding: 30px;
+      border-radius: 20px;
+      max-width: 450px;
+      width: 90%;
+      text-align: center;
+      max-height: 90vh;
+      overflow-y: auto;
+      animation: slideUp 0.3s ease;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .modal-header {
+      margin-bottom: 20px;
+    }
+
+    .modal-icon {
+      width: 70px;
+      height: 70px;
+      background: linear-gradient(135deg, #f15a24, #ff7643);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 15px;
+    }
+
+    .modal-content h3 {
+      color: #333;
+      margin-bottom: 10px;
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
+
+    .modal-content p {
+      margin-bottom: 25px;
+      color: #666;
+      font-size: 14px;
+    }
+
+    .form-group {
+      margin-bottom: 16px;
+      text-align: left;
+    }
+
+    .form-label {
+      display: block;
+      font-size: 14px;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 8px;
+    }
+
+    .form-input {
+      width: 100%;
+      padding: 14px;
+      border: 2px solid #e5e7eb;
+      border-radius: 10px;
+      font-size: 15px;
+      transition: all 0.3s;
+    }
+
+    .form-input:focus {
+      outline: none;
+      border-color: #f15a24;
+    }
+
+    .modal-buttons {
+      display: flex;
+      gap: 12px;
+      margin-top: 25px;
+    }
+
+    .btn-cancel {
+      flex: 1;
+      background: #f3f4f6;
+      color: #333;
+      border: none;
+      padding: 14px;
+      border-radius: 10px;
+      font-size: 15px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+
+    .btn-cancel:hover {
+      background: #e5e7eb;
+    }
+
+    .btn-confirm {
+      flex: 1;
+      background: linear-gradient(135deg, #f15a24, #ff7643);
+      color: white;
+      border: none;
+      padding: 14px;
+      border-radius: 10px;
+      font-size: 15px;
+      cursor: pointer;
+      font-weight: 700;
+      transition: all 0.2s;
+    }
+
+    .btn-confirm:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(241, 90, 36, 0.3);
+    }
+
+    /* Loading */
+    .loading-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.85);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 3000;
+      backdrop-filter: blur(4px);
+    }
+
+    .loading-overlay.active {
+      display: flex;
+    }
+
+    .loading-content {
+      background: white;
+      padding: 40px;
+      border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+
+    .spinner {
+      width: 60px;
+      height: 60px;
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #f15a24;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 20px;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .loading-text {
+      font-size: 16px;
+      font-weight: 600;
+      color: #333;
+    }
+
+    /* Alert Box */
+    .alert-box {
+      display: none;
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: white;
+      padding: 18px 28px;
+      border-radius: 12px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+      z-index: 4000;
+      min-width: 320px;
+      text-align: center;
+    }
+
+    .alert-box.active {
+      display: block;
+      animation: slideDown 0.3s ease;
+    }
+
+    @keyframes slideDown {
+      from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+      }
+    }
+
+    .alert-box.error {
+      border-left: 5px solid #ef4444;
+    }
+
+    .alert-box.success {
+      border-left: 5px solid #10b981;
+    }
+
+    .alert-box .alert-title {
+      font-weight: 700;
+      margin-bottom: 6px;
+      color: #333;
+      font-size: 16px;
+    }
+
+    .alert-box .alert-message {
+      font-size: 14px;
+      color: #666;
+    }
+
+    
+    /* ── Tap highlight off ── */
+    * { -webkit-tap-highlight-color: transparent; }
+
+    /* ── Anti-autofill ── */
+    .form-input:-webkit-autofill,
+    .form-input:-webkit-autofill:hover,
+    .form-input:-webkit-autofill:focus,
+    .form-input:-webkit-autofill:active {
+      -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+      -webkit-text-fill-color: #333 !important;
+      transition: background-color 5000s ease-in-out 0s;
+      caret-color: #333;
+    }
+
+    /* ── Proteção de mídia ── */
+    img, video {
+      -webkit-user-drag: none;
+      -khtml-user-drag: none;
+      -moz-user-drag: none;
+      -o-user-drag: none;
+      user-drag: none;
+      pointer-events: none;
+    }
+    .preview-button, .cta-button, button, a, input, label {
+      pointer-events: all;
+    }
+    body {
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    input, textarea { -webkit-user-select: text; user-select: text; }
+
+    /* ── Responsivo melhorado ── */
+    @media (max-width: 480px) {
+      .container { padding: 14px; }
+      .logo { width: 140px; margin-bottom: 14px; }
+      .urgency-badge { font-size: 11px; padding: 8px 14px; }
+      .video-container { min-height: 360px; }
+      .message { font-size: 0.95rem; line-height: 1.65; margin-bottom: 18px; }
+      .benefits-box { padding: 16px; margin: 18px 0; }
+      .benefits-title { font-size: 15px; }
+      .benefit-item { font-size: 13px; gap: 10px; }
+      .price-box { padding: 16px; margin: 16px 0; }
+      .price-value { font-size: 34px; }
+      .price-old { font-size: 15px; }
+      .price-label { font-size: 12px; }
+      .guarantee { font-size: 12px; }
+      .cta-button { font-size: 0.95rem; padding: 15px 20px; bottom: 12px; }
+      .modal-content { padding: 22px 18px; }
+      .modal-content h3 { font-size: 1.2rem; }
+      .modal-icon { width: 56px; height: 56px; }
+      .form-input { padding: 12px; font-size: 14px; }
+      .modal-buttons { gap: 8px; margin-top: 18px; }
+      .btn-cancel, .btn-confirm { padding: 12px; font-size: 14px; }
+      .preview-button { padding: 14px 20px; }
+      .preview-icon-circle { width: 56px; height: 56px; }
+      .preview-button-text { font-size: 13px; }
+      .preview-button-subtext { font-size: 11px; }
+    }
+    @media (max-width: 360px) {
+      .container { padding: 10px; }
+      .video-container { min-height: 300px; }
+      .price-value { font-size: 30px; }
+      .cta-button { font-size: 0.88rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="../images/images-logo.webp" alt="Privacy Logo" class="logo">
+    
+    <div class="urgency-badge">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:5px"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>OFERTA EXCLUSIVA POR TEMPO LIMITADO
+    </div>
+
+    <div class="video-container video-hidden" id="video-container">
+      <button class="preview-button" id="preview-button" onclick="showVideoPreview()">
+        <div class="preview-icon-circle">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5">
+            <polygon points="5 3 19 12 5 21 5 3"></polygon>
+          </svg>
+        </div>
+        <span class="preview-button-text">VER PRÉVIA EXCLUSIVA</span>
+        <span class="preview-button-subtext">Clique para assistir</span>
+      </button>
+      
+      <video class="banner" muted loop playsinline preload="metadata">
+        <source src="../media/videoeduarda1.mp4" type="video/mp4">
+        Seu navegador não suporta vídeo.
+      </video>
+      <div class="video-overlay">
+        <div class="lock-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>
+        </div>
+        <span class="overlay-text">PRÉVIA EXCLUSIVA</span>
+      </div>
+    </div>
+    
+    <div class="message">
+      Percebi que você não completou sua assinatura...<br><br>
+      Que tal uma <strong>oferta especial exclusiva</strong> só pra você?<br><br>
+      Tenho um <span class="highlight">vídeo premium personalizado</span> esperando por você...<br><br>
+      <strong>Por menos de R$ 10 e com acesso liberado em SEGUNDOS!</strong>
+    </div>
+
+    <div class="benefits-box">
+      <div class="benefits-title"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>O que você vai receber:</div>
+      <div class="benefit-item">
+        <div class="benefit-icon">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+        </div>
+        <span>Vídeo exclusivo em alta qualidade</span>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+        </div>
+        <span>Acesso instantâneo após pagamento</span>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+        </div>
+        <span>Conteúdo disponível por 7 dias</span>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-icon">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+        </div>
+        <span>Pagamento 100% seguro via PIX</span>
+      </div>
+    </div>
+
+    <div class="price-box">
+      <div class="price-label" id="preco-desconto-label">APENAS HOJE</div>
+      <div class="price-value" id="preco-desconto">R$ 9,90</div>
+      <div class="price-old" id="preco-desconto-antes">De R$ 29,90</div>
+    </div>
+    
+    <div class="guarantee">
+      <svg class="guarantee-icon" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+        <path d="M9 12l2 2 4-4"></path>
+      </svg>
+      <span>Acesso garantido imediatamente após o pagamento</span>
+    </div>
+  </div>
+
+  <button class="cta-button" onclick="abrirModal()">
+    <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:7px"><path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0 1 12 2.944a11.955 11.955 0 0 1-8.618 3.04A12.02 12.02 0 0 0 3 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>GARANTIR ACESSO AGORA
+  </button>
+
+  <!-- Modal de Email -->
+  <div class="modal" id="email-modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="modal-icon">
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+          </svg>
+        </div>
+        <h3>Quase lá!</h3>
+        <p>Preencha seus dados para liberar seu acesso exclusivo</p>
+      </div>
+      
+      <form id="desconto-form">
+        <div class="form-group">
+          <label class="form-label"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:5px"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>Seu e-mail</label>
+          <input type="email" class="form-input" id="email-input" placeholder="seu@email.com" required>
+        </div>
+        
+        <div class="form-group">
+          <label class="form-label"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:5px"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Seu nome</label>
+          <input type="text" class="form-input" id="nome-input" placeholder="Como posso te chamar?" required>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:5px"><rect x="3" y="4" width="18" height="16" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="9" x2="9" y2="20"/></svg>CPF</label>
+          <input type="text" class="form-input" id="cpf-input" placeholder="000.000.000-00" maxlength="14" required>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#f15a24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:5px"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>Celular</label>
+          <input type="tel" class="form-input" id="phone-input" placeholder="(00) 00000-0000" maxlength="15" required>
+        </div>
+      </form>
+
+      <div class="modal-buttons">
+        <button class="btn-cancel" onclick="fecharModal()">Cancelar</button>
+        <button class="btn-confirm" onclick="gerarPix()">Gerar PIX Agora</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Loading Overlay -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="loading-content">
+      <div class="spinner"></div>
+      <div class="loading-text">Gerando seu PIX...</div>
+    </div>
+  </div>
+
+  <!-- Alert Box -->
+  <div class="alert-box" id="alert-box">
+    <div class="alert-title" id="alert-title">Atenção</div>
+    <div class="alert-message" id="alert-message">Mensagem</div>
+  </div>
+
+  <script>
+    // Forçar carregamento do vídeo ao carregar a página
+    document.addEventListener('DOMContentLoaded', function() {
+      const video = document.querySelector('.banner');
+      if (video) {
+        video.currentTime = 0; // Força mostrar o primeiro frame
+        video.load(); // Força o carregamento do primeiro frame
+      }
+    });
+
+    // Função para mostrar prévia do vídeo
+    function showVideoPreview() {
+      const videoContainer = document.getElementById('video-container');
+      videoContainer.classList.remove('video-hidden');
+      
+      // Iniciar o vídeo
+      const video = videoContainer.querySelector('.banner');
+      video.play().catch(e => console.log('Erro ao iniciar vídeo:', e));
+      
+      // Facebook Pixel - Track video preview view
+      if (typeof fbq !== 'undefined') {
+        fbq('trackCustom', 'VideoPreviewViewed', {
+          content_name: 'Oferta Especial Video Preview',
+          content_category: 'Engagement'
+        });
+      }
+    }
+
+    // Facebook Pixel - ViewContent Event
+    if (typeof fbq !== 'undefined') {
+      var _preco = (typeof _P !== 'undefined') ? _P.desconto.preco : 9.90;
+      fbq('track', 'ViewContent', {
+        content_name: 'Oferta Especial Video',
+        content_category: 'Desconto',
+        value: _preco,
+        currency: 'BRL'
+      });
+    }
+
+    function mostrarAlerta(titulo, mensagem, tipo = 'error') {
+      const alertBox = document.getElementById('alert-box');
+      const alertTitle = document.getElementById('alert-title');
+      const alertMessage = document.getElementById('alert-message');
+
+      alertTitle.textContent = titulo;
+      alertMessage.textContent = mensagem;
+      
+      alertBox.className = 'alert-box active ' + tipo;
+      
+      setTimeout(() => {
+        alertBox.classList.remove('active');
+      }, 4000);
+    }
+
+    function abrirModal() {
+      document.getElementById('email-modal').classList.add('active');
+      
+      // Facebook Pixel - AddToCart Event
+      if (typeof fbq !== 'undefined') {
+        fbq('track', 'AddToCart', {
+          content_name: 'Oferta Especial Video',
+          content_category: 'Desconto',
+          value: (typeof _P !== "undefined" ? _P.desconto.preco : 9.90),
+          currency: 'BRL'
+        });
+      }
+    }
+
+    function fecharModal() {
+      document.getElementById('email-modal').classList.remove('active');
+    }
+
+    async function gerarPix() {
+      const email = document.getElementById('email-input').value.trim();
+      const nome = document.getElementById('nome-input').value.trim();
+      const cpf = document.getElementById('cpf-input').value.trim();
+      const phone = document.getElementById('phone-input').value.trim();
+
+      if (!email || !nome || !cpf || !phone) {
+        mostrarAlerta('Ops!', 'Por favor, preencha todos os campos');
+        return;
+      }
+
+      // Validar email
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!emailRegex.test(email)) {
+        mostrarAlerta('Email inválido', 'Por favor, insira um email válido');
+        return;
+      }
+
+      // Validar CPF (mínimo de caracteres)
+      if (cpf.replace(/\D/g, '').length < 11) {
+        mostrarAlerta('CPF inválido', 'Por favor, insira um CPF válido');
+        return;
+      }
+
+      // Validar telefone (mínimo de caracteres)
+      if (phone.replace(/\D/g, '').length < 10) {
+        mostrarAlerta('Telefone inválido', 'Por favor, insira um telefone válido');
+        return;
+      }
+
+      // Facebook Pixel - InitiateCheckout Event
+      if (typeof fbq !== 'undefined') {
+        fbq('track', 'InitiateCheckout', {
+          content_name: 'Oferta Especial Video',
+          content_category: 'Desconto',
+          value: (typeof _P !== "undefined" ? _P.desconto.preco : 9.90),
+          currency: 'BRL'
+        });
+      }
+
+      // Fechar modal e mostrar loading
+      fecharModal();
+      document.getElementById('loading-overlay').classList.add('active');
+
+      // Dados do pagamento
+      const formData = {
+        name: nome,
+        email: email,
+        cpf: cpf,
+        phone: phone,
+        amount: (typeof _P !== 'undefined') ? _P.desconto.preco : 9.90,
+        plan: 'video-exclusivo',
+        payment_method: 'pix'
+      };
+
+      console.log('Gerando PIX:', formData);
+
+      try {
+        const response = await fetch('../api-pix.php', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(formData)
+        });
+
+        console.log('Status da resposta:', response.status);
+        
+        if (!response.ok) {
+          throw new Error('Erro HTTP: ' + response.status);
+        }
+
+        const result = await response.json();
+        console.log('Resultado:', result);
+
+        if (result.success) {
+          // Redirecionar para página de pagamento PIX
+          const params = new URLSearchParams({
+            transaction_id: result.transaction_id,
+            qrcode: result.qrcode,
+            amount: result.amount
+          });
+          _saindoParaPix = true;
+          window.location.href = '../pix-payment.html?' + params.toString();
+        } else {
+          document.getElementById('loading-overlay').classList.remove('active');
+          mostrarAlerta('Erro ao gerar PIX', result.message || 'Tente novamente em alguns instantes');
+        }
+      } catch (error) {
+        console.error('Erro completo:', error);
+        document.getElementById('loading-overlay').classList.remove('active');
+        mostrarAlerta('Erro de conexão', 'Não foi possível conectar ao servidor. Verifique sua internet e tente novamente.');
+      }
+    }
+
+    // Fechar modal ao clicar fora
+    document.getElementById('email-modal').addEventListener('click', function(e) {
+      if (e.target === this) {
+        fecharModal();
+      }
+    });
+
+    // Máscara de CPF
+    document.getElementById('cpf-input').addEventListener('input', function(e) {
+      let value = e.target.value.replace(/\D/g, '');
+      
+      if (value.length <= 11) {
+        value = value.replace(/(\d{3})(\d)/, '$1.$2');
+        value = value.replace(/(\d{3})(\d)/, '$1.$2');
+        value = value.replace(/(\d{3})(\d{1,2})$/, '$1-$2');
+      }
+      
+      e.target.value = value;
+    });
+
+    // Máscara de Telefone
+    document.getElementById('phone-input').addEventListener('input', function(e) {
+      let value = e.target.value.replace(/\D/g, '');
+      
+      if (value.length <= 10) {
+        value = value.replace(/(\d{2})(\d)/, '($1) $2');
+        value = value.replace(/(\d{4})(\d)/, '$1-$2');
+      } else {
+        value = value.replace(/(\d{2})(\d)/, '($1) $2');
+        value = value.replace(/(\d{5})(\d)/, '$1-$2');
+      }
+      
+      e.target.value = value;
+    });
+
+    // Prevenir fechamento acidental da página
+    var _saindoParaPix = false;
+    window.addEventListener('beforeunload', function (e) {
+      if (_saindoParaPix) return;
+      e.preventDefault();
+      e.returnValue = '';
+    });
+  </script>
+  <!-- Anti-DevTools & Proteção de conteúdo -->
+  <script>
+    document.addEventListener('keydown', function(e) {
+      if (
+        e.key === 'F12' ||
+        (e.ctrlKey && e.shiftKey && ['I','J','C'].includes(e.key.toUpperCase())) ||
+        (e.ctrlKey && e.key.toUpperCase() === 'U')
+      ) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
+      }
+    }, true);
+
+    document.addEventListener('contextmenu', function(e) {
+      e.preventDefault();
+      return false;
+    });
+
+    (function devToolsDetect() {
+      var threshold = 160;
+      setInterval(function() {
+        if (
+          window.outerWidth - window.innerWidth > threshold ||
+          window.outerHeight - window.innerHeight > threshold
+        ) {
+          document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;font-family:Inter,sans-serif;font-size:1.1rem;color:#ea580c;text-align:center;padding:20px;">Acesso bloqueado.<br>Feche as ferramentas do desenvolvedor para continuar.</div>';
+        }
+      }, 1000);
+    })();
+
+    document.addEventListener('dragstart', function(e) {
+      if (e.target.tagName === 'IMG' || e.target.tagName === 'VIDEO') {
+        e.preventDefault();
+        return false;
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagamento PIX - Privacy Eduarda</title>
+    <link rel="icon" type="image/png" href="images/219-images-favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Pixel -->
+    <script src="pixel.js"></script>
+
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; font-family:'Inter',-apple-system,sans-serif; -webkit-tap-highlight-color:transparent; }
+
+        html, body {
+            height: 100%;
+            background: linear-gradient(135deg, #fff7ed 0%, #f5f5f5 100%);
+        }
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            min-height: 100dvh;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 420px;
+            background: white;
+            border-radius: 18px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+            overflow: hidden;
+        }
+
+        /* ── HEADER ── */
+        .header {
+            background: linear-gradient(135deg, #ff7643, #ff5f20);
+            padding: 12px 16px 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header-video {
+            width: 48px;
+            height: 64px;
+            border-radius: 7px;
+            overflow: hidden;
+            border: 2px solid rgba(255,255,255,0.35);
+            flex-shrink: 0;
+        }
+
+        .header-video video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: blur(1.5px) brightness(0.95);
+        }
+
+        .header-text h1 {
+            font-size: 15px;
+            font-weight: 700;
+            color: white;
+            line-height: 1.2;
+        }
+
+        .header-text p {
+            font-size: 11px;
+            color: rgba(255,255,255,0.85);
+            margin-top: 2px;
+        }
+
+        /* ── TOP ROW: timer + valor ── */
+        .top-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            padding: 10px 12px 0;
+        }
+
+        .timer-box, .amount-box {
+            border-radius: 10px;
+            padding: 8px 10px;
+            text-align: center;
+        }
+
+        .timer-box {
+            background: #fff7ed;
+            border: 1.5px solid #ff7643;
+        }
+
+        .timer-value {
+            font-size: 22px;
+            font-weight: 700;
+            color: #ff7643;
+            line-height: 1;
+        }
+
+        .timer-label {
+            font-size: 10px;
+            color: #999;
+            margin-top: 2px;
+        }
+
+        .amount-box {
+            background: linear-gradient(135deg, #fff7ed, #ffedd5);
+            border: 1.5px solid #fcd9b6;
+        }
+
+        .amount-label {
+            font-size: 10px;
+            color: #999;
+            margin-bottom: 2px;
+        }
+
+        .amount-value {
+            font-size: 22px;
+            font-weight: 700;
+            color: #ff7643;
+            line-height: 1;
+        }
+
+        /* ── CONTENT ── */
+        .content {
+            padding: 10px 12px 12px;
+        }
+
+        /* ── QR CODE ── */
+        .qrcode-wrap {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border: 2px solid #e5e5e5;
+            border-radius: 12px;
+            padding: 10px;
+            margin-top: 10px;
+            background: white;
+        }
+
+        #qrcode {
+            display: inline-block;
+            line-height: 0;
+        }
+
+        #qrcode canvas, #qrcode img {
+            display: block;
+            max-width: 180px;
+            max-height: 180px;
+            width: 180px !important;
+            height: 180px !important;
+        }
+
+        .qr-hint {
+            font-size: 11px;
+            color: #999;
+            margin-top: 6px;
+        }
+
+        /* ── PIX CODE ── */
+        .pix-code {
+            margin-top: 8px;
+            background: #f8f9fa;
+            border: 1px dashed #ddd;
+            border-radius: 8px;
+            padding: 8px 10px;
+        }
+
+        .pix-code label {
+            display: block;
+            font-size: 11px;
+            color: #888;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .code-input {
+            display: flex;
+            gap: 6px;
+        }
+
+        .code-text {
+            flex: 1;
+            padding: 8px 10px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 11px;
+            font-family: monospace;
+            background: white;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            color: #333;
+            outline: none;
+        }
+
+        .copy-btn {
+            padding: 8px 14px;
+            background: #ff7643;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 700;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: background 0.2s;
+            border-bottom: 2px solid #c93e00;
+        }
+
+        .copy-btn:active { transform: translateY(1px); border-bottom-width: 1px; }
+        .copy-btn.copied { background: #10b981; border-bottom-color: #065f46; }
+
+        /* ── STATUS + STEPS (linha única compacta) ── */
+        .status-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+            padding: 7px 10px;
+            background: #f8f9fa;
+            border-left: 3px solid #ff7643;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .status-spinner {
+            width: 16px;
+            height: 16px;
+            border: 2px solid rgba(255,118,67,0.2);
+            border-top-color: #ff7643;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            flex-shrink: 0;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .status-text {
+            font-size: 11px;
+            color: #555;
+            line-height: 1.3;
+        }
+
+        .status-text strong { color: #1a1a1a; font-size: 12px; }
+
+        /* ── STEPS ── */
+        .steps {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 8px;
+            gap: 4px;
+        }
+
+        .step {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            gap: 4px;
+        }
+
+        .step-num {
+            width: 20px;
+            height: 20px;
+            background: #ff7643;
+            color: white;
+            border-radius: 50%;
+            font-size: 10px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .step-txt {
+            font-size: 10px;
+            color: #777;
+            line-height: 1.3;
+        }
+
+        /* ── SUCCESS ── */
+        .success-animation {
+            display: none;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .success-animation.show { display: block; }
+
+        .success-icon {
+            width: 64px;
+            height: 64px;
+            margin: 0 auto 16px;
+            animation: scaleIn 0.4s ease;
+        }
+
+        @keyframes scaleIn { from { transform: scale(0); } to { transform: scale(1); } }
+
+        .success-animation h2 { font-size: 20px; color: #10b981; margin-bottom: 8px; }
+        .success-animation p  { font-size: 14px; color: #666; }
+
+        /* ── RESPONSIVE ── */
+        @media (max-height: 650px) {
+            .header-video { width: 38px; height: 50px; }
+            .header { padding: 8px 14px; }
+            .timer-value, .amount-value { font-size: 18px; }
+            #qrcode canvas, #qrcode img { width: 150px !important; height: 150px !important; }
+            .qrcode-wrap { padding: 7px; }
+        }
+
+        @media (max-width: 360px) {
+            .steps { display: none; }
+            .top-row { gap: 6px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <!-- Header compacto com vídeo lateral -->
+        <div class="header">
+            <div class="header-video">
+                <video autoplay loop muted playsinline>
+                    <source src="media/videoeduarda1.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="header-text">
+                <h1>Pagamento via PIX</h1>
+                <p>Escaneie o QR Code para finalizar</p>
+            </div>
+        </div>
+
+        <!-- Conteúdo de pagamento -->
+        <div id="payment-content">
+
+            <!-- Timer + Valor lado a lado -->
+            <div class="top-row">
+                <div class="timer-box">
+                    <div class="timer-value" id="timer">05:00</div>
+                    <div class="timer-label">Tempo restante</div>
+                </div>
+                <div class="amount-box">
+                    <div class="amount-label">Valor a pagar</div>
+                    <div class="amount-value" id="amount">R$ --</div>
+                </div>
+            </div>
+
+            <div class="content">
+
+                <!-- QR Code -->
+                <div class="qrcode-wrap">
+                    <div id="qrcode"></div>
+                    <span class="qr-hint">Escaneie com o app do seu banco</span>
+                </div>
+
+                <!-- Código PIX -->
+                <div class="pix-code">
+                    <label>Ou copie o código PIX:</label>
+                    <div class="code-input">
+                        <input type="text" class="code-text" id="pix-code" readonly>
+                        <button class="copy-btn" id="copy-btn" onclick="copyPixCode()">Copiar</button>
+                    </div>
+                </div>
+
+                <!-- Status -->
+                <div class="status-row">
+                    <div class="status-spinner"></div>
+                    <div class="status-text">
+                        <strong>Aguardando pagamento...</strong><br>
+                        Você será redirecionado automaticamente
+                    </div>
+                </div>
+
+                <!-- Passos compactos -->
+                <div class="steps">
+                    <div class="step">
+                        <div class="step-num">1</div>
+                        <div class="step-txt">Abra seu banco</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-num">2</div>
+                        <div class="step-txt">Escolha PIX QR Code</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-num">3</div>
+                        <div class="step-txt">Escaneie ou cole o código</div>
+                    </div>
+                    <div class="step">
+                        <div class="step-num">4</div>
+                        <div class="step-txt">Confirme o pagamento</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Sucesso -->
+        <div class="success-animation" id="success-content">
+            <svg class="success-icon" viewBox="0 0 24 24" fill="none">
+                <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="#10b981" stroke-width="2"/>
+            </svg>
+            <h2>Pagamento Confirmado!</h2>
+            <p>Redirecionando...</p>
+        </div>
+
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script>
+        const urlParams     = new URLSearchParams(window.location.search);
+        const transactionId = urlParams.get('transaction_id');
+        const qrcodeData    = urlParams.get('qrcode') ? decodeURIComponent(urlParams.get('qrcode')) : '';
+        const amount        = urlParams.get('amount');
+
+        // Pixel
+        if (typeof fbq !== 'undefined' && amount) {
+            fbq('track', 'AddPaymentInfo', { content_name: 'Privacy Eduarda PIX', value: parseFloat(amount), currency: 'BRL', payment_method: 'PIX' });
+        }
+
+        // Redirecionar se faltar dados
+        if (!transactionId || !qrcodeData) {
+            setTimeout(() => { window.location.href = 'checkout.html'; }, 2000);
+        }
+
+        // Valor
+        if (amount) {
+            document.getElementById('amount').textContent = 'R$ ' + parseFloat(amount).toFixed(2).replace('.', ',');
+        }
+
+        // Código PIX
+        document.getElementById('pix-code').value = qrcodeData;
+
+        // Gerar QR Code
+        function generateQRCode() {
+            const el = document.getElementById('qrcode');
+            if (typeof QRCode === 'undefined') {
+                const s = document.createElement('script');
+                s.src = 'https://unpkg.com/qrcodejs@1.0.0/qrcode.min.js';
+                s.onload = () => setTimeout(generateQRCode, 100);
+                s.onerror = () => { el.innerHTML = '<p style="color:#ff7643;padding:12px;font-size:13px">Use o código PIX abaixo</p>'; };
+                document.head.appendChild(s);
+                return;
+            }
+            try {
+                el.innerHTML = '';
+                new QRCode(el, { text: qrcodeData, width: 180, height: 180, colorDark: '#000', colorLight: '#fff', correctLevel: QRCode.CorrectLevel.M });
+            } catch(e) {
+                el.innerHTML = '<p style="color:#ff7643;padding:12px;font-size:13px">Use o código PIX abaixo</p>';
+            }
+        }
+
+        document.readyState === 'loading'
+            ? document.addEventListener('DOMContentLoaded', () => setTimeout(generateQRCode, 100))
+            : setTimeout(generateQRCode, 100);
+
+        // Copiar
+        function copyPixCode() {
+            const val = document.getElementById('pix-code').value;
+            const btn = document.getElementById('copy-btn');
+            navigator.clipboard.writeText(val).catch(() => {
+                const inp = document.getElementById('pix-code');
+                inp.select(); inp.setSelectionRange(0,99999);
+                document.execCommand('copy');
+            });
+            btn.textContent = '✓ Copiado!';
+            btn.classList.add('copied');
+            setTimeout(() => { btn.textContent = 'Copiar'; btn.classList.remove('copied'); }, 2000);
+        }
+
+        // Timer 5 min
+        let timeLeft = 300;
+        function updateTimer() {
+            const m = Math.floor(timeLeft / 60), s = timeLeft % 60;
+            document.getElementById('timer').textContent = String(m).padStart(2,'0') + ':' + String(s).padStart(2,'0');
+            if (timeLeft-- > 0) setTimeout(updateTimer, 1000);
+            else { alert('Tempo expirado! Gerando novo código...'); window.location.href = 'checkout.html'; }
+        }
+        updateTimer();
+
+        // Verificar pagamento
+        let checkInterval = setInterval(checkPaymentStatus, 5000);
+
+        async function checkPaymentStatus() {
+            try {
+                const r = await fetch('check-payment.php?transaction_id=' + transactionId);
+                const data = await r.json();
+                if (data.status === 'paid') {
+                    clearInterval(checkInterval);
+                    if (typeof fbq !== 'undefined' && amount) {
+                        fbq('track', 'Purchase', { value: parseFloat(amount), currency: 'BRL', transaction_id: transactionId });
+                    }
+                    document.getElementById('payment-content').style.display = 'none';
+                    document.getElementById('success-content').classList.add('show');
+                    const _tok = data.tok || '';
+                    setTimeout(() => { window.location.href = 'success.php?transaction_id=' + transactionId + '&amount=' + amount + '&tok=' + _tok; }, 3000);
+                }
+            } catch(e) {}
+        }
+    </script>
+</body>
+</html>

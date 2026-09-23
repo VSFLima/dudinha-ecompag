@@ -1,0 +1,20 @@
+esse arquivo nao precisa de banco de dados 
+coloque suas credenciais ecompag no arquivo 
+config.php 
+adicione o link do seu conteudo em config.php
+adicione o smtp do seu site em config.php
+(obrigatório para enviar email para o comprador)
+
+para configurar o smtp compre um email em algum provedor de hospedagem, e configure email no lugar de 'seuemailaqui@site.com' e a senha no lugar de "suasenhaaqui"
+
+para conectar seu pixel Facebook use o pixel.js e altere o id no seu-pixel-id
+
+altere os valores do planos em planos.php
+edite para ativar os bots em planos.php
+
+
+edite as descrições em conteudo.js
+não é necessário informar url do domínio sistema ja puxa tudo automaticamente.
+
+sistema desenvolvido por jc_scripts caso for utilizar não public prints do seu site nem nada relacionado a nudes no grupo da ecompag... 
+
