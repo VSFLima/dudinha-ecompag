@@ -4,7 +4,8 @@
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PIX](https://img.shields.io/badge/PIX-BRL-00A859?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-privado-6e5494?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-p%C3%BAblico-2ea44f?style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%40vsf__lima-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsf_lima)
 
 ---
 
@@ -38,4 +39,21 @@ scripts de desconto e automação de mensagens.
 
 ---
 
-> 🔒 **Repositório privado.**
+---
+
+## 🖼️ Prévia
+
+<p align="center"><img src="preview/dudinha.jpg" alt="Prévia" width="100%"></p>
+
+## ⬇️ Download
+
+📦 **[Release v1.0](https://github.com/VSFLima/dudinha-ecompag/releases/tag/v1.0)**
+
+| Arquivo | Tamanho |
+|---|---|
+| [`dudinha.zip`](https://github.com/VSFLima/dudinha-ecompag/releases/download/v1.0/dudinha.zip) | 15 MB |
+
+## 🙏 Créditos
+
+- **Distribuição:** [@vsf_lima](https://t.me/vsf_lima) — Telegram
+- **Sistema original:** jc_scripts / ecompag
