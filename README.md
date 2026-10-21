@@ -39,8 +39,6 @@ scripts de desconto e automação de mensagens.
 
 ---
 
----
-
 ## 🖼️ Prévia
 
 <p align="center"><img src="preview/dudinha.jpg" alt="Prévia" width="100%"></p>
